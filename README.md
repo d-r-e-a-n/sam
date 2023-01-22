@@ -40,4 +40,4 @@ If you want to contact me you can reach me at [Linktree](https://linktr.ee/_drea
 
 ## License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and does not contain any license.

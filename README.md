@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/d-r-e-a-n/sam)
 ![GitHub stars](https://img.shields.io/github/stars/d-r-e-a-n/sam?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/d-r-e-a-n/sam?style=social)
-[![Twitter Follow](https://twitter.com/___drean)
+[![Twitter Follow](https://img.shields.io/twitter/follow/___drean?style=social)
 
 
 Sam is a fully responsive personal portfolio website, responsive for all devices.
